@@ -20,14 +20,14 @@ alert(s);
 >block quote.
 
 Bulleted list
-*list
-*of
-*things
+..*list
+..*of
+..*things
 
 Numbered list
-1.List
-2.of
-3.things
+1. List
+2. of
+3. things
 
 | A      | Nice           | Table  |
 | ------------- |:-------------:| -----:|
@@ -42,4 +42,6 @@ __bold text__
 ~~striken through~~
 
 Horizontal rule between 1 and 2
-1 *** 2
+1 
+***
+2
