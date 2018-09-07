@@ -20,9 +20,9 @@ alert(s);
 >block quote.
 
 Bulleted list
-..*list
-..*of
-..*things
+* list
+* of
+* things
 
 Numbered list
 1. List
@@ -41,7 +41,7 @@ __bold text__
 
 ~~striken through~~
 
-Horizontal rule between 1 and 2
+Horizontal rule between
 1 
 ***
 2
